@@ -1,5 +1,5 @@
 # magento2-custom-router
-Example router for demonstration how to create custom router in Magento 2.
+Example router in Magento 2.
 
 <h2>Install:</h2>
 First add repository to composer configuration:

@@ -1,0 +1,23 @@
+{
+  "name": "inchoo/custom-router",
+  "description": "Inchoo Custom Router extension for Magento 2. It is used as example how to create custom router.",
+  "type": "magento2-module",
+  "version": "dev-master",
+  "license": [
+    "OSL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Zoran Salamun",
+      "email": "zoransalamun@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "Inchoo/CustomRouter"
+      ]
+    ]
+  }
+}

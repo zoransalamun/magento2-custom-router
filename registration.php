@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright © MagePal LLC. All rights reserved.
+ * Copyright © Inchoo. All rights reserved.
  * See COPYING.txt for license details.
  */
 

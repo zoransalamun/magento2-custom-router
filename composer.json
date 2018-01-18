@@ -12,6 +12,14 @@
       "email": "zoransalamun@gmail.com"
     }
   ],
+  "autoload": {
+    "files": [
+        "registration.php"
+    ],
+    "psr-4": {
+        "Inchoo\\CustomRouter\\": ""
+    }
+  },
   "extra": {
     "map": [
       [
